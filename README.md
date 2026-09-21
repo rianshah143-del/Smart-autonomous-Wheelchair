@@ -91,7 +91,11 @@ functions:
 
 ## Development Journal
 
-...
+The complete project journal documents the development process,
+including design decisions, hardware integration, testing,
+challenges encountered, and prototype development.
+
+📘 **[View Complete Project Journal](https://docs.google.com/document/d/1CIjM_xLYNCckEMdnfBFI1WbFrF81M3wR/edit?usp=drive_link&ouid=100130635653822734064&rtpof=true&sd=true)**
 
 ## Future Improvements
 
