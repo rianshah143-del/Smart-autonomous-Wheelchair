@@ -156,7 +156,7 @@ Potential improvements include:
 
 ## Project Website
 
-🌐 **[Visit the Smart Wheelchair Project Website](WEBSITE_LINK_HERE)**
+🌐 **[Visit the Smart Wheelchair Project Website](https://milo-the-wheelchair.ai.studio)**
 
 The project website will provide a visual overview of the
 wheelchair, its development process, hardware, software,
